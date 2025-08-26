@@ -8,6 +8,7 @@ function App() {
       <p>mảialdfj ato </p>
       <input type='text'/>
       <button>gay</button>
+      <h1>am the god of the heaven</h1>
     </>
   );
 }
